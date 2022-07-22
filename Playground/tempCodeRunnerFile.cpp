@@ -1,0 +1,1 @@
+cin >> a; arr[int(yooo/2)][yooo%2] = a;
