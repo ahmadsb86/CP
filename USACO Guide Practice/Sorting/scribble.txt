@@ -1,0 +1,7 @@
+# Rental Service
+- If a d(non-exterme patch) is less than d(BOTH exteme patches), there MUST be a bad cow in between patches
+- complete range cannot be captured in which bad cow is present
+- If an patch range is empty, and x - a > b, then range can be captured
+
+# Herding
+- 
